@@ -9,7 +9,6 @@ class ReverseInteger {
         reverseInt(x);
         System.out.println();
         reverseString(s);
-
     }
 
     private static void reverseInt(int n) {
